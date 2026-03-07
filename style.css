@@ -48,16 +48,49 @@ a:hover{
     font-weight: bold;
     cursor: pointer;
 }
+
+main{
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.biografia{
+    flex: 1;
+    width: 80%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 img{
  text-align: center;
- padding: 25px;
+ padding: 10px;
  position: relative;
  flex-direction: column;
  display: flex;
  transform: translateX(8px);
- 
-
- 
- 
+ width: 300px;
  
 }
+p{
+width: 60%;
+text-align: center;
+}
+
+ 
+#sistemplus{
+ width: 280px;
+ height: 220px;
+ border-radius: 12px;
+ transform: translateX(-1000px);
+ margin-top: 600px;
+}
+.linea{
+    content: ;
+    flex: 1;
+    border-bottom: 2px solid #f1c40f;
+}
+
