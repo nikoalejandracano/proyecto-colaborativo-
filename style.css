@@ -48,3 +48,16 @@ a:hover{
     font-weight: bold;
     cursor: pointer;
 }
+img{
+ text-align: center;
+ padding: 25px;
+ position: relative;
+ flex-direction: column;
+ display: flex;
+ transform: translateX(8px);
+ 
+
+ 
+ 
+ 
+}
