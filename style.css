@@ -48,10 +48,9 @@ a:hover{
     font-weight: bold;
     cursor: pointer;
 }
-<<<<<<< HEAD
 
 .footer{
-    min-height: 20vh;
+    min-height: 60vh;
     display: flex;
     flex-direction: column;
 }
@@ -59,18 +58,17 @@ a:hover{
 .piepag{
     display: flex;
     justify-content: space-between;
-    height: 1300px;
+    height: 1200px;
     align-items: center;
 }
 
 .a{
     text-decoration: none;
     color: black;
-    margin: 200px;
-    padding: 200px;
-    space: 1000px;
+    margin: 10px;
+    padding: 10px;
 }
-=======
+
 img{
  text-align: center;
  padding: 25px;
@@ -78,10 +76,4 @@ img{
  flex-direction: column;
  display: flex;
  transform: translateX(8px);
- 
-
- 
- 
- 
 }
->>>>>>> b822467ea1ca821b43734d642c6fcb60a45473a1
