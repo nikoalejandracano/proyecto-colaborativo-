@@ -61,8 +61,25 @@ main{
     display: flex;
 }
 
-.dos{
   
+.footer{
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.piepag{
+    display: flex;
+    justify-content: space-between;
+    height: 1200px;
+    align-items: center;
+}
+
+.a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    padding: 10px;
 }
 
 img{
@@ -71,9 +88,11 @@ img{
  position: relative;
  flex-direction: column;
  display: flex;
+
  width: 300px;
  
 }
+
 p{
 width: 60%;
 text-align: center;
@@ -86,4 +105,5 @@ text-align: center;
  border-radius: 12px;
  
 }
+
 
