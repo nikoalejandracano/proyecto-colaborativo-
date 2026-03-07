@@ -48,3 +48,24 @@ a:hover{
     font-weight: bold;
     cursor: pointer;
 }
+
+.footer{
+    min-height: 20vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.piepag{
+    display: flex;
+    justify-content: space-between;
+    height: 1300px;
+    align-items: center;
+}
+
+.a{
+    text-decoration: none;
+    color: black;
+    margin: 200px;
+    padding: 200px;
+    space: 1000px;
+}
