@@ -48,6 +48,7 @@ a:hover{
     font-weight: bold;
     cursor: pointer;
 }
+<<<<<<< HEAD
 
 .footer{
     min-height: 20vh;
@@ -69,3 +70,18 @@ a:hover{
     padding: 200px;
     space: 1000px;
 }
+=======
+img{
+ text-align: center;
+ padding: 25px;
+ position: relative;
+ flex-direction: column;
+ display: flex;
+ transform: translateX(8px);
+ 
+
+ 
+ 
+ 
+}
+>>>>>>> b822467ea1ca821b43734d642c6fcb60a45473a1
